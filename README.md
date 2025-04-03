@@ -1,75 +1,8 @@
-# Nuxt Minimal Starter
+🐺 PWA Pitbull – Kopia Aplikacji w Nuxt.js  
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+📌 Opis projektu  
+Projekt to kopia aplikacji PWA Pitbull stworzona przy użyciu **Nuxt.js** – frameworka opartego na Vue.js, który umożliwia budowanie aplikacji progresywnych (PWA). Celem aplikacji jest zapewnienie responsywnego i wydajnego doświadczenia użytkownika dzięki technologii SSR (Server-Side Rendering) i optymalizacji dla urządzeń mobilnych.  
 
-## Setup
 
-Make sure to install dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+📩 Kontakt  
+Remigiusz Nowakowski  
